@@ -1,0 +1,105 @@
+:root {
+    /* fonts */
+    --smaller-text-bold: Mulish;
+    --title-h3: Recoleta;
+    --text-small-regular: Inter;
+    --font-open-sans: 'Open Sans';
+  
+    /* font sizes */
+    --font-size-2xs: 10px;
+    --font-size-xs: 12px;
+    --smaller-text-bold-size: 14px;
+    --bold-size: 16px;
+    --font-size-lg: 18px;
+    --font-size-xl: 20px;
+    --title-h3-size: 24px;
+    --title-h2-size: 23.85px;
+    --title-h1-size: 32.03px;
+  
+    /* Colors */
+    --braand-white: #fff;
+    --gray-300: #e2e8f0;
+    --color-gray-200: #e5e5e5;
+    --grey: #d9d9d9;
+    --dark-grey: #bbb;
+    --color-gray-500: #b3b3b3;
+    --blue-light: #57a8f2;
+    --text-slightly-dark: #031a2f;
+    --text-dark: #010d18;
+    --color-gray-900: rgba(1, 13, 24, 0.44);
+    --color-gray-1000: rgba(1, 13, 24, 0.72);
+    --main-primary: #0f82ed;
+    --color-black: #000;
+  
+    /* Gaps */
+    --gap-0: 0px;
+    --gap-9xs: 2px;
+    --gap-8xs: 3px;
+    --gap-7xs: 4px;
+    --gap-6xs: 5px;
+    --gap-5xs: 8px;
+    --gap-4xs: 10px;
+    --gap-3xs: 12px;
+    --gap-2xs: 15px;
+    --gap-xs: 16px;
+    --gap-sm: 20px;
+    --gap-md: 24px;
+    --gap-lg: 28px;
+    --gap-xl: 30px;
+    --gap-2xl: 33px;
+    --gap-3xl: 40px;
+    --gap-4xl: 48px;
+    --gap-5xl: 50px;
+    --gap-6xl: 90px;
+    --gap-7xl: 93px;
+    --gap-8xl: 100px;
+    --gap-9xl: 150px;
+    --gap-10xl: 286px;
+  
+    /* Paddings */
+    --padding-2xs: 8px;
+    --padding-xs: 10px;
+    --padding-sm: 15px;
+    --padding-md: 16px;
+    --padding-lg: 20px;
+    --padding-xl: 30px;
+  
+    /* border radiuses */
+    --br-2xs: 5px;
+    --br-xs: 6px;
+    --br-sm: 7.91px;
+    --br-md: 8px;
+    --br-lg: 10px;
+    --br-xl: 24px;
+    --br-2xl: 44.68px;
+  }
+  
+  .nav a {
+    text-decoration: none;
+    color: #010d18;
+  }
+  
+  .nav a:hover {
+    color: var(--main-primary) !important;
+  }
+  
+  .active {
+    color: var(--main-primary) !important;
+  }
+  .donate-btn {
+    border-width: 0;
+  }
+  .donate-button {
+    text-decoration: none;
+    color: white;
+  }
+  #partner-modal, #large-modal, #start-modal{
+    font-family: var( --smaller-text-bold)!important ;
+  }
+  .h-50px{
+    height: 50px;
+  }
+  .maxheight {
+      max-height: calc(100vh - 50px) ;
+    }
+  

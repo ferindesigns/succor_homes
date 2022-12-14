@@ -1,0 +1,401 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.union-icon8 {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  flex-shrink: 0;
+}
+.frame-div,
+.frame-div3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.frame-div3 {
+  align-items: flex-start;
+  gap: var(--gap-3xl);
+  font-size: var(--smaller-text-bold-size);
+  color: var(--text-dark);
+  font-family: var(--smaller-text-bold);
+}
+.succor-b8 {
+  position: relative;
+  letter-spacing: -0.02em;
+  display: inline-block;
+}
+.frame-div491,
+.frame-div492 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.frame-div491 {
+  gap: var(--gap-6xs);
+}
+.about-us1,
+.home-div3 {
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+}
+.home-div3 {
+  font-weight: 500;
+}
+.about-us1 {
+  color: var(--main-primary);
+}
+.frame-div490,
+.frame-div493 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.frame-div493 {
+  align-items: flex-start;
+  gap: var(--gap-3xl);
+  font-size: var(--smaller-text-bold-size);
+  color: var(--text-dark);
+  font-family: var(--smaller-text-bold);
+}
+.frame-div490 {
+  position: absolute;
+  top: 45px;
+  left: 100px;
+  align-items: center;
+  gap: var(--gap-8xl);
+}
+.donate-now-b24 {
+  position: relative;
+  letter-spacing: 0.04em;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.frame-div494,
+.frame-div495 {
+  border-radius: var(--br-lg);
+  background-color: var(--main-primary);
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.frame-div495 {
+  padding: var(--padding-sm) var(--padding-lg);
+  box-sizing: border-box;
+}
+.frame-div494 {
+  position: absolute;
+  top: 40px;
+  right: 100px;
+  width: 142px;
+  font-size: var(--bold-size);
+  color: var(--braand-white);
+  font-family: var(--smaller-text-bold);
+}
+.navbar-div4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--braand-white);
+  width: 1440px;
+  height: 120px;
+  overflow: hidden;
+  font-size: var(--font-size-xs);
+  color: var(--main-primary);
+}
+.together-we-can-make-the-world3 {
+  position: relative;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 850px;
+}
+.frame-div497,
+.frame-div498 {
+  display: flex;
+  align-items: center;
+}
+.frame-div498 {
+  border-radius: var(--br-lg);
+  background-color: var(--main-primary);
+  width: 277px;
+  height: 56px;
+  flex-shrink: 0;
+  flex-direction: row;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--bold-size);
+  color: var(--braand-white);
+  font-family: var(--smaller-text-bold);
+}
+.frame-div497 {
+  position: absolute;
+  top: 100px;
+  left: 295px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.frame-div496 {
+  position: absolute;
+  top: 2561px;
+  left: 0;
+  width: 1440px;
+  height: 452px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--title-h1-size);
+  color: var(--color-black);
+}
+.frame-div504 {
+  border-radius: var(--br-lg);
+  background-color: var(--main-primary);
+  width: 277px;
+  height: 56px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--bold-size);
+  font-family: var(--smaller-text-bold);
+}
+.frame-div501 {
+  position: absolute;
+  top: 85px;
+  left: 100px;
+  gap: var(--gap-5xl);
+}
+.frame-div501,
+.frame-div508,
+.frame-div509 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-div509 {
+  gap: var(--gap-4xs);
+  font-size: var(--smaller-text-bold-size);
+}
+.frame-div508 {
+  gap: var(--gap-sm);
+}
+.call-icon4 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.frame-div512 {
+  flex-direction: row;
+  gap: var(--gap-4xs);
+}
+.frame-div506,
+.frame-div507,
+.frame-div512 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-div507 {
+  flex-direction: row;
+  gap: var(--gap-9xl);
+}
+.frame-div506 {
+  position: absolute;
+  top: 56px;
+  left: 570px;
+  flex-direction: column;
+  padding: var(--padding-xs);
+  box-sizing: border-box;
+  font-size: var(--bold-size);
+  font-family: var(--smaller-text-bold);
+}
+.frame-div500 {
+  position: absolute;
+  top: 3113px;
+  left: 0;
+  background-color: var(--text-slightly-dark);
+  width: 100vw;
+  height: 297px;
+  overflow: hidden;
+  font-size: var(--font-size-xs);
+  color: var(--braand-white);
+}
+.our-mission-b,
+.quality-standard-of-life-for-o {
+  position: relative;
+  display: inline-block;
+}
+.quality-standard-of-life-for-o {
+  font-size: var(--title-h2-size);
+  letter-spacing: -0.02em;
+  font-family: var(--title-h3);
+  color: var(--text-dark);
+  width: 376px;
+}
+.frame-div521 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.the-mission-of {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.the-mission-of-succor-homes-is {
+  position: relative;
+  line-height: 140%;
+  font-weight: 500;
+  color: var(--text-dark);
+  display: inline-block;
+  width: 516px;
+}
+.frame-div520 {
+  gap: var(--gap-2xl);
+}
+.frame-div519,
+.frame-div520 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-icon35 {
+  position: relative;
+  border-radius: var(--br-lg);
+  width: 530px;
+  height: 444px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frame-div518 {
+  position: absolute;
+  top: 100px;
+  left: 152px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-6xl);
+}
+.make-donations-div1 {
+  position: absolute;
+  top: 120px;
+  left: 0;
+  width: 1440px;
+  height: 644px;
+  font-family: var(--smaller-text-bold);
+}
+.to-help-over-100000-orphans {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--title-h2-size);
+  letter-spacing: -0.02em;
+  display: inline-block;
+  font-family: var(--title-h3);
+  color: var(--text-dark);
+}
+.make-donations-div2 {
+  position: absolute;
+  top: 764px;
+  left: 0;
+  width: 1440px;
+  height: 644px;
+  font-family: var(--smaller-text-bold);
+}
+.meet-the-people-making-this-a {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--title-h2-size);
+  letter-spacing: -0.02em;
+  display: inline-block;
+  font-family: var(--title-h3);
+  color: var(--text-dark);
+  text-align: center;
+}
+.frame-div527 {
+  width: 516px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.ellipse-icon10 {
+  position: relative;
+  width: 295px;
+  height: 295px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.product-designer-div {
+  position: relative;
+  font-size: var(--bold-size);
+  line-height: 140%;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-div529,
+.frame-div530,
+.frame-div531 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+}
+.frame-div529,
+.frame-div530 {
+  gap: var(--gap-sm);
+}
+.frame-div529 {
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frame-div526,
+.frame-div528 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-div528 {
+  gap: var(--gap-3xl);
+  font-size: var(--title-h3-size);
+  color: var(--text-dark);
+}
+.frame-div526 {
+  position: absolute;
+  top: 1479px;
+  left: 100px;
+  gap: var(--gap-5xl);
+  font-family: var(--smaller-text-bold);
+}
+.about-us-div8 {
+  position: relative;
+  background-color: var(--braand-white);
+  width: 100%;
+  height: 3410px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--bold-size);
+  color: var(--blue-light);
+  font-family: var(--title-h3);
+}
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+  
+  
+}
+

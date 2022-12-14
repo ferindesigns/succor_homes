@@ -1,0 +1,122 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.title-b10,
+.title-div16 {
+  position: relative;
+  line-height: 32px;
+  display: inline-block;
+}
+.title-div16 {
+  font-size: var(--bold-size);
+  letter-spacing: 0.03em;
+  line-height: 18px;
+}
+.frame-div137 {
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-2xs) 0;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.ellipse-icon4 {
+  position: relative;
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+}
+.i-am-an-individual {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+}
+.frame-div141 {
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-div139,
+.frame-div140,
+.frame-div141 {
+  display: flex;
+  flex-direction: row;
+}
+.frame-div140 {
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-xs);
+}
+.frame-div139 {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.or-div1 {
+  position: relative;
+  font-size: var(--bold-size);
+  line-height: 24px;
+  font-weight: 500;
+  font-family: var(--text-small-regular);
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.44),
+      rgba(255, 255, 255, 0.44)
+    ),
+    #000;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: none;
+}
+.frame-div136,
+.frame-div138 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.frame-div138 {
+  width: 420px;
+  overflow: hidden;
+  padding: 0 var(--padding-md);
+  box-sizing: border-box;
+  font-size: var(--smaller-text-bold-size);
+  color: var(--color-gray-1000);
+}
+.frame-div136 {
+  position: absolute;
+  top: 48px;
+  left: 47px;
+}
+.x-icon7 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.dismiss-div7 {
+  position: absolute;
+  top: 24px;
+  left: 450px;
+  border-radius: var(--br-md);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-2xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.partner-modal-div1 {
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--braand-white);
+  width: 100%;
+  height: 258px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--title-h3-size);
+  color: var(--text-dark);
+  font-family: var(--smaller-text-bold);
+}
